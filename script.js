@@ -30,13 +30,7 @@
     <script>
         // Configuração do Firebase
         var firebaseConfig = {
-            apiKey: "AIzaSyDVrPIha9YklOXKbvItEE70ZxSfuodtsJ0",
-            authDomain: "rifa-ea336.firebaseapp.com",
-            databaseURL: "https://rifa-ea336-default-rtdb.firebaseio.com",
-            projectId: "Rifa",
-            storageBucket: "SEU_STORAGE_BUCKET",
-            messagingSenderId: "SEU_MESSAGING_SENDER_ID",
-            appId: "Rifa"
+
         };
         // Inicializando Firebase
         firebase.initializeApp(firebaseConfig);
